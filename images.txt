@@ -1,13 +1,9 @@
 p3terx/aria2-pro
-Snowdreamtech/frps：0.62.0
-p3terx/aria2-pro
 deluan/navidrome:latest
 xhongc/music_tag_web:latest
 cloudnas/clouddrive2
 qingfeng2336/it-tools:latest
-1panel-php:7.4.33
 surveyking/surveyking:latest
-mysql:8
 stirlingtools/stirling-pdf:latest
 joplin/server:latest
 postgres:13
