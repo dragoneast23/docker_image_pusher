@@ -1,15 +1,15 @@
-jiangrui1994/cloudsaver:latest
-registry.cn-beijing.aliyuncs.com/caorushizi/mediago:latest
-p3terx/aria2-pro
-deluan/navidrome:latest
-xhongc/music_tag_web:latest
-cloudnas/clouddrive2
-qingfeng2336/it-tools:latest
-surveyking/surveyking:latest
-stirlingtools/stirling-pdf:latest
-joplin/server:latest
-postgres:13
-linzeyi/hivision_idphotos:latest
+#jiangrui1994/cloudsaver:latest
+#registry.cn-beijing.aliyuncs.com/#caorushizi/mediago:latest
+#p3terx/aria2-pro
+#deluan/navidrome:latest
+#xhongc/music_tag_web:latest
+#cloudnas/clouddrive2
+#qingfeng2336/it-tools:latest
+#surveyking/surveyking:latest
+#stirlingtools/stirling-pdf:latest
+#joplin/server:latest
+#postgres:13
+#linzeyi/hivision_idphotos:latest
 
 
 
