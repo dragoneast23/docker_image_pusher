@@ -1,4 +1,7 @@
-cosincox/easyvoice:latest
+seafileltd/seafile-mc:11.0-latest
+mariadb:10.11
+memcached:1.6.18
+#cosincox/easyvoice:latest
 #onlyoffice/documentserver
 #jiangrui1994/cloudsaver:latest
 #registry.cn-beijing.aliyuncs.com/#caorushizi/mediago:latest
