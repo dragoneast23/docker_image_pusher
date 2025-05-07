@@ -1,4 +1,5 @@
-onlyoffice/documentserver
+cosincox/easyvoice:latest
+#onlyoffice/documentserver
 #jiangrui1994/cloudsaver:latest
 #registry.cn-beijing.aliyuncs.com/#caorushizi/mediago:latest
 #p3terx/aria2-pro
