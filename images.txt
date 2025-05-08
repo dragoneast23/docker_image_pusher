@@ -1,6 +1,7 @@
-seafileltd/seafile-mc:11.0-latest
-mariadb:10.11
-memcached:1.6.18
+wiznote/wizserver
+#seafileltd/seafile-mc:11.0-latest
+#mariadb:10.11
+#memcached:1.6.18
 #cosincox/easyvoice:latest
 #onlyoffice/documentserver
 #jiangrui1994/cloudsaver:latest
