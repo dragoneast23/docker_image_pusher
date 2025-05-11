@@ -1,4 +1,5 @@
-wiznote/wizserver
+codeberg.org/readeck/readeck:latest
+#wiznote/wizserver
 #seafileltd/seafile-mc:11.0-latest
 #mariadb:10.11
 #memcached:1.6.18
