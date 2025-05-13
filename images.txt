@@ -1,4 +1,5 @@
-cloudreve/cloudreve:latest
+docker.1ms.run/guovern/iptv-api:latest
+#cloudreve/cloudreve:latest
 #codeberg.org/readeck/readeck:latest
 #wiznote/wizserver
 #seafileltd/seafile-mc:11.0-latest
