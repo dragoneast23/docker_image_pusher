@@ -1,4 +1,5 @@
-whyour/qinglong:latest
+pairdrop/pairdrop
+#whyour/qinglong:latest
 #docker.1ms.run/guovern/#iptv-api:latest
 #cloudreve/cloudreve:latest
 #codeberg.org/readeck/readeck:latest
