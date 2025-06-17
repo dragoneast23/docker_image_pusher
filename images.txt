@@ -1,4 +1,5 @@
-lscr.io/linuxserver/pairdrop:latest
+ghcr.io/openlistteam/openlist-git:beta-aio
+#lscr.io/linuxserver/pairdrop:latest
 #whyour/qinglong:latest
 #docker.1ms.run/guovern/#iptv-api:latest
 #cloudreve/cloudreve:latest
