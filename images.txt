@@ -1,4 +1,4 @@
-1panel-php:8.4.6
+1panel/php:8.4.6
 #1panel/openresty:1.21.4.3-3-3-focal
 #iib0011/omni-tools:latest
 #ghcr.io/openlistteam/openlist-git:beta-aio
