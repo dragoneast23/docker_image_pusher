@@ -1,5 +1,5 @@
-fooololo/lzpan:latest
-#ghcr.io/senshinya/moontv:latest
+#fooololo/lzpan:latest
+ghcr.io/senshinya/moontv:latest
 #1panel/openresty:1.21.4.3-3-3-focal
 #iib0011/omni-tools:latest
 #ghcr.io/openlistteam/openlist-git:beta-aio
