@@ -1,5 +1,6 @@
+wbsu2003/lx-music-sync-server
 #fooololo/lzpan:latest
-senshinya/moontv:latest
+#senshinya/moontv:latest
 #ghcr.io/moontechlab/lunatv:latest
 #1panel/openresty:1.21.4.3-3-3-focal
 #iib0011/omni-tools:latest
