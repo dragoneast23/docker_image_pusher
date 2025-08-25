@@ -1,4 +1,5 @@
-wbsu2003/lx-music-sync-server
+star7th/jisuxiang:latest
+#wbsu2003/lx-music-sync-server
 #fooololo/lzpan:latest
 #senshinya/moontv:latest
 #ghcr.io/moontechlab/lunatv:latest
