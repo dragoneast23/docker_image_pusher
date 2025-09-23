@@ -1,4 +1,4 @@
-star7th/jisuxiang:latest
+#star7th/jisuxiang:latest
 #wbsu2003/lx-music-sync-server
 #fooololo/lzpan:latest
 #senshinya/moontv:latest
@@ -25,7 +25,7 @@ star7th/jisuxiang:latest
 #cloudnas/clouddrive2
 #qingfeng2336/it-tools:latest
 #surveyking/surveyking:latest
-#stirlingtools/stirling-pdf:latest
+stirlingtools/stirling-pdf:1.3.2
 #joplin/server:latest
 #postgres:13
 #linzeyi/hivision_idphotos:latest
