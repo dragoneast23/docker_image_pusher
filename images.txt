@@ -1,4 +1,4 @@
-develop767/migu_video
+#develop767/migu_video
 #star7th/jisuxiang:latest
 #wbsu2003/lx-music-sync-server
 #fooololo/lzpan:latest
@@ -26,7 +26,7 @@ develop767/migu_video
 #cloudnas/clouddrive2
 #qingfeng2336/it-tools:latest
 #surveyking/surveyking:latest
-stirlingtools/stirling-pdf:1.3.2
+#stirlingtools/stirling-pdf:1.3.2
 #joplin/server:latest
 #postgres:13
 #linzeyi/hivision_idphotos:latest
