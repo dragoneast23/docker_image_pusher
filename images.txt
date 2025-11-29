@@ -1,4 +1,5 @@
-lampon/omnibox:latest
+ghcr.io/fish2018/pansou-web:latest
+#lampon/omnibox:latest
 #phpoffice/phpspreadsheet
 #develop767/migu_video
 #star7th/jisuxiang:latest
