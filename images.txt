@@ -1,7 +1,8 @@
+registry.cn-hangzhou.aliyuncs.com/johnroot/migu
 #ghcr.io/fish2018/pansou-web:latest
 #lampon/omnibox:latest
 #phpoffice/phpspreadsheet
-develop767/migu_video
+#develop767/migu_video
 #star7th/jisuxiang:latest
 #wbsu2003/lx-music-sync-server
 #fooololo/lzpan:latest
