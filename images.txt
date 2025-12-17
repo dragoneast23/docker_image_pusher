@@ -1,4 +1,4 @@
-registry.cn-hangzhou.aliyuncs.com/johnroot/migu
+docker.809899.xyz/migu:v1
 #ghcr.io/fish2018/pansou-web:latest
 #lampon/omnibox:latest
 #phpoffice/phpspreadsheet
