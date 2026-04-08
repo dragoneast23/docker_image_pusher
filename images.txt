@@ -1,5 +1,6 @@
+registry.cn-hangzhou.aliyuncs.com/johnroot/migu
 #yhtv/ysp-app:latest
-ghcr.io/wechat-article/wechat-article-exporter:latest
+#ghcr.io/wechat-article/wechat-article-exporter:latest
 #docker.809899.xyz/migu:v1
 #ghcr.io/fish2018/pansou-web:latest
 #lampon/omnibox:latest
