@@ -1,4 +1,4 @@
-
+nickrunning/wechat-selkies:latest
 #yhtv/ysp-app:latest
 #ghcr.io/wechat-article/wechat-article-exporter:latest
 #docker.809899.xyz/migu:v1
