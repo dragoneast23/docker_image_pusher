@@ -1,5 +1,5 @@
-guovern/iptv-api:latest
-#cqshushu/iptv-spider:latest
+#guovern/iptv-api:latest
+cqshushu/iptv-spider:latest
 #godoos/godoos:latest
 #hraulein/mind-map:latest
 #nickrunning/wechat-selkies:latest
