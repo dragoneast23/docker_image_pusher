@@ -1,5 +1,5 @@
 #guovern/iptv-api:latest
-cqshushu/iptv-spider:latest
+#cqshushu/iptv-spider:latest
 #godoos/godoos:latest
 #hraulein/mind-map:latest
 #nickrunning/wechat-selkies:latest
@@ -10,7 +10,7 @@ cqshushu/iptv-spider:latest
 #lampon/omnibox:latest
 #phpoffice/phpspreadsheet
 #develop767/migu_video
-#develop767/migu_video:latest
+develop767/migu_video:latest
 #star7th/jisuxiang:latest
 #wbsu2003/lx-music-sync-server
 #fooololo/lzpan:latest
