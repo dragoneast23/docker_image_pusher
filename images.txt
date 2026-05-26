@@ -1,6 +1,6 @@
-hurryos/iptvs-app
+#hurryos/iptvs-app
 #guovern/iptv-api:latest
-#cqshushu/iptv-spider:latest
+cqshushu/iptv-spider:latest
 #godoos/godoos:latest
 #hraulein/mind-map:latest
 #nickrunning/wechat-selkies:latest
