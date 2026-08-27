@@ -1,7 +1,8 @@
+xeath/1panel-in-docker:latest
 #mostafawahied/portracker:latest
 #crpi-xg6dfmt5h2etc7hg.cn-hangzhou.personal.cr.aliyuncs.com/cherry4nas/dockports:latest
 #rio22/tvbox-aggregator
-hurryos/iptvs-app:latest
+#hurryos/iptvs-app:latest
 #guovern/iptv-api:latest
 #cqshushu/iptv-spider:latest
 #godoos/godoos:latest
