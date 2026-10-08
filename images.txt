@@ -1,5 +1,6 @@
-postgres:15-alpine
-joplin/server:latest
+neosmemo/memos:0.31.0
+#postgres:15-alpine
+#joplin/server:latest
 #xeath/1panel-in-docker:latest
 #mostafawahied/portracker:latest
 #crpi-xg6dfmt5h2etc7hg.cn-hangzhou.personal.cr.aliyuncs.com/cherry4nas/dockports:latest
