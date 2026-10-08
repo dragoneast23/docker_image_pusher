@@ -1,4 +1,5 @@
-neosmemo/memos:0.31.0
+rxliuli/joplin-web:latest
+#neosmemo/memos:0.31.0
 #postgres:15-alpine
 #joplin/server:latest
 #xeath/1panel-in-docker:latest
