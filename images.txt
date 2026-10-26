@@ -1,4 +1,4 @@
-rxliuli/joplin-web:latest
+#rxliuli/joplin-web:latest
 #neosmemo/memos:0.31.0
 #postgres:15-alpine
 #joplin/server:latest
@@ -32,7 +32,7 @@ rxliuli/joplin-web:latest
 #whyour/qinglong:latest
 #cloudreve/cloudreve:latest
 #codeberg.org/readeck/readeck:latest
-#wiznote/wizserver
+wiznote/wizserver
 #seafileltd/seafile-mc:11.0-latest
 #mariadb:10.11
 #memcached:1.6.18
