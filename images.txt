@@ -1,4 +1,5 @@
-rxliuli/joplin-web:latest
+yafoo/menote:latest
+#rxliuli/joplin-web:latest
 #neosmemo/memos:0.31.0
 #postgres:15-alpine
 #joplin/server:latest
